@@ -8,7 +8,7 @@ int main() {
 	string NamaFile;
 
 	cout << "Masukkan Nama File : ";
-	cin >> NamaFile;
+	cin >> NamaFile; 
 
 	// membukka file dalam mode menulis
 	ofstream outfile;
